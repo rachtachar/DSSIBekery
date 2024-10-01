@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+    <string name="Bakery">Bakery</string>
+    <string name="Drink">Drink</string>
+    <string name="IceCream">IceCream</string>
+    <string name="underlined_text"><u>This is your order</u></string>
+
+    <string-array name="bakery_array">
+        <item>CupCake</item>
+        <item>Donut</item>
+        <item>Croissant</item>
+        <item>Brownies</item>
+        <item>-</item>
+    </string-array>
+
+    <string-array name="ice_cream_array">
+        <item>Strawberry Ice Cream</item>
+        <item>Chocolate Ice Cream</item>
+        <item>Vanilla Ice Cream</item>
+        <item>Mint Ice Cream</item>
+        <item>-</item>
+    </string-array>
+
+    <string-array name="drink_array">
+        <item>MilkShake</item>
+        <item>Juice</item>
+        <item>Coffee</item>
+        <item>Tea</item>
+        <item>-</item>
+    </string-array>
+
+</resources>
